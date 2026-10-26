@@ -1,0 +1,6 @@
+{
+  "name": "Pink Paradise Run",
+  "description": "A third-person 3D endless runner through a sparkling pink fantasy world featuring selectable female characters, pink gem collection, and oversized makeup obstacles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
